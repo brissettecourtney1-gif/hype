@@ -1,5 +1,5 @@
 .body{background: "blue";}
-.img{box-sizing: border-box; width: 100px; height: 60px;}**/  
+.p{box-sizing: border-box; width: 100px; height: 60px;}
 
 .img-fluid,.img-fluid-1{height: 30px; width: 10%; object-fit: "cover"; border-radius: 10px;}              
  .container2{flex-direction: "row"; background-color: black; text-color: "gray"; font-family:"Impact, Haettenschweiler", 'Arial Narrow Bold', "sans-serif";font-size:"larger";}                       
