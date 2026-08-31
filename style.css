@@ -4,8 +4,8 @@
 .img-fluid{height: 30px; width: 10%; object-fit: "cover"; border-radius: 10px;}              
  .container-2{ background-color: black; border-top-color: aquamarine; font-family:"Impact, Haettenschweiler", 'Arial Narrow Bold', "sans-serif";font-size:"larger";}                       
 .col-md-4{ margin: 10px; padding: 10px; border-radius: 5px; background-color:#86a7cd;}                              
-  ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;}
-                                    
+  .ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;}
+
                                     
                                         
                                         
