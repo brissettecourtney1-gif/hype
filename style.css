@@ -4,7 +4,8 @@
 .container-2{ background-color: black; border-top-color: aquamarine; font-family:"Impact, Haettenschweiler", 'Arial Narrow Bold', "sans-serif";font-size:"larger";}                       
 .col-md-4{ margin: 10px; padding: 10px; border-radius: 5px; background-color:#86a7cd;}                              
   .ul{list-style-type: none; margin: 0px; padding: 0; overflow: hidden; background-color: #333;}
- li a{display: block; color:black; text-align: center; padding: 14px, 16px; text-decoration: none;}
+ul li{float: left;}
+  li a{display: block; color:black; text-align: center; padding: 14px, 16px; text-decoration: none;}
 
                                     
                                         
