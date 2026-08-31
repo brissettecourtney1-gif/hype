@@ -1,7 +1,7 @@
 body{background-color: blue;}
-.pa{ width: 100px; height: 60px; margin: 10px 20px auto;}
+.pa{ box-sizing: border-box; width: 50px; height: 60px; margin: 10px 20px auto;}
 
-.img-fluid,.pa{height: 30px; width: 10%; object-fit: "cover"; border-radius: 10px;}              
+.img-fluid{height: 30px; width: 10%; object-fit: "cover"; border-radius: 10px;}              
  .container{ background-color: black; border-top-color: aquamarine; font-family:"Impact, Haettenschweiler", 'Arial Narrow Bold', "sans-serif";font-size:"larger";}                       
 .col-md-4{ margin: 10px; padding: 10px; border-radius: 5px; background-color:#86a7cd;}                              
                                     
