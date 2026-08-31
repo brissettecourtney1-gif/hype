@@ -1,5 +1,5 @@
-body{background-color: blue;}
-.pa{ image-width: 50px; height: 60px; margin: 10px 20px auto;}
+.body{color: blue;}
+.page-image{width: 50px; height: 60px; margin: 10px 20px auto;}
 
 .img-fluid{height: 30px; width: 10%; object-fit: "cover"; border-radius: 10px;}              
  .container{ background-color: black; border-top-color: aquamarine; font-family:"Impact, Haettenschweiler", 'Arial Narrow Bold', "sans-serif";font-size:"larger";}                       
