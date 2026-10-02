@@ -1,9 +1,9 @@
 body{background-color: blue; text-align: center; font-family: "Impact, Haettenschweiler", 'Arial Narrow Bold', "sans-serif"; font-size: larger; color: black;}
 col-md-4{color: blue;}
 par{width: "50px"; height: "100px";}
-logo{height: 1rem; width: 10%; object-fit: "cover";}              
-container{ background-color: black; border-top-color: aquamarine; font-family:"Impact, Haettenschweiler", 'Arial Narrow Bold', "sans-serif";font-size:"larger";}                       
-col-md-4{ margin: 10px; padding: 10px; border-radius: 5px; background-color:#86a7cd;}                              
+logo{ width: 1em}              
+container{ background-color: black; border-top-color: aquamarine; font-family:"Impact, Haettenschweiler", 'Arial Narrow Bold', "sans-serif";font-size:"larger"; width-max="page"}                       
+col-md-4{ margin: 10px; padding: 10px; border-radius: 200px; background-color:#86a7cd;}                              
  video{width: 259px; height: 250px;}                                   
 img-fluid{width: 259px; height: 250px;}
 hero-visual{width: 30%; height: 30%; object-fit: cover; border-radius: 200px;} 
